@@ -1,1 +1,1 @@
-# social-platform
+# Auth Backend
